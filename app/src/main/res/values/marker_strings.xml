@@ -1,0 +1,8 @@
+<resources>
+    <string name="marker_searching">Buscando marcadores… Encuadra al menos tres.</string>
+    <string name="marker_permission">La cámara necesita tu permiso. Pulsa «Abrir cámara» para reintentar.</string>
+    <string name="marker_visible">Referencia visible · %1$d/4 marcadores · Comprueba la alineación antes de trazar.</string>
+    <string name="marker_hidden">Dibujo oculto · %1$d/4 marcadores. Encuadra al menos tres y comprueba su colocación en «Guía».</string>
+    <string name="marker_error">Se interrumpió el seguimiento. Pulsa «Reintentar».</string>
+    <string name="marker_dimensions">%1$s × %2$s cm · marcador %3$s cm</string>
+</resources>
